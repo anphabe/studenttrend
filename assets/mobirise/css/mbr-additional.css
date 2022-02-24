@@ -13,7 +13,7 @@ body {
   font-size: 5.25rem;
 }
 .display-2 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2.4rem;
   line-height: 1.1;
 }
@@ -29,7 +29,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.6rem;
   line-height: 1.5;
 }
@@ -37,7 +37,7 @@ body {
   font-size: 2rem;
 }
 .display-7 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -1165,8 +1165,8 @@ a {
   z-index: 0;
 }
 .cid-sYlPHciEPo {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 8rem;
+  padding-bottom: 9rem;
   background-image: url("../../../assets/images/yubridge-scaled-1600x0-c-default.jpg");
 }
 .cid-sYlPHciEPo .mbr-section-title {
@@ -1178,4 +1178,69 @@ a {
 }
 .cid-sYlPHciEPo .mbr-section-subtitle {
   text-align: left;
+}
+.cid-sYlWxzjyLX {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+@media (max-width: 767px) {
+  .cid-sYlWxzjyLX .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-sYlWxzjyLX .mbr-text {
+  color: #767676;
+}
+.cid-sYlWxzjyLX .links {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-sYlWxzjyLX .links {
+    text-align: center !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sYlWxzjyLX .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-sYlWxzjyLX .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: 0.05;
+}
+.cid-sYlWxzjyLX .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-sYlWxzjyLX .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-sYlWxzjyLX .footer-lower .social-list .soc-item {
+  margin: 0 0.5rem;
+}
+.cid-sYlWxzjyLX .footer-lower .social-list a {
+  margin: 0;
+  opacity: 0.5;
+  -webkit-transition: 0.2s linear;
+  transition: 0.2s linear;
+}
+.cid-sYlWxzjyLX .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-sYlWxzjyLX .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
 }
