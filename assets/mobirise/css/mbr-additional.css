@@ -6,11 +6,11 @@ body {
 }
 .display-1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 4.4rem;
+  font-size: 4.2rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.5rem;
+  font-size: 5.25rem;
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
@@ -51,14 +51,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.52rem;
+    font-size: 3.36rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.08rem;
-    font-size: calc( 2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.94rem;
+    font-size: calc( 2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.12rem + (4.2 - 2.12) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.92rem;
@@ -1042,12 +1042,20 @@ a {
 .cid-sYlAp1GSM5 h1 {
   line-height: 1.3;
 }
+@media (max-width: 767px) {
+  .cid-sYlAp1GSM5 h1 {
+    font-size: 3.6rem;
+  }
+}
 .cid-sYlAp1GSM5 .display-7 {
   line-height: 1;
 }
 .cid-sYlAp1GSM5 .mbr-text,
 .cid-sYlAp1GSM5 .mbr-section-btn {
   text-align: left;
+}
+.cid-sYlAp1GSM5 p {
+  margin-left: 0.2rem;
 }
 .cid-sYlEIdxgWu {
   padding-top: 5rem;
