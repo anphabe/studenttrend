@@ -1,2 +1,2 @@
 # studenttrend
-studenttrend.anphabe.com
+https://studenttrend.anphabe.com
