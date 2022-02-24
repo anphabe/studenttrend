@@ -1044,7 +1044,7 @@ a {
 }
 @media (max-width: 998px) {
   .cid-sYlAp1GSM5 .display-1 {
-    font-size: 3.6rem;
+    font-size: 3.6rem !important;
   }
 }
 .cid-sYlAp1GSM5 .display-7 {
