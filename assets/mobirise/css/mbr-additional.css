@@ -6,11 +6,11 @@ body {
 }
 .display-1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 3.8rem;
+  font-size: 3.6rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4.75rem;
+  font-size: 4.5rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
@@ -51,14 +51,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.04rem;
+    font-size: 2.88rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.66rem;
-    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.52rem;
+    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.92rem;
