@@ -1042,8 +1042,8 @@ a {
 .cid-sYlAp1GSM5 h1 {
   line-height: 1.3;
 }
-@media (max-width: 1024px) {
-  .cid-sYlAp1GSM5 h1 {
+@media (max-width: 998px) {
+  .cid-sYlAp1GSM5 .display-1 {
     font-size: 3.6rem;
   }
 }
