@@ -1054,6 +1054,11 @@ a {
     padding: 0 2rem;
   }
 }
+@media (max-width: 767px) {
+  .cid-sYpY8guITH .text-wrapper {
+    padding: 1rem 0 0 1rem;
+  }
+}
 .cid-sYpY8guITH .mbr-text,
 .cid-sYpY8guITH .mbr-section-btn {
   text-align: left;

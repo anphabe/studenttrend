@@ -524,6 +524,9 @@
             ".text-wrapper": {
               "@media (min-width: 992px)": {
                 "padding": "0 2rem"
+              },
+              "@media (max-width: 767px)": {
+                "padding": "1rem 0 0 1rem"
               }
             },
             ".mbr-text, .mbr-section-btn": {
