@@ -1089,8 +1089,8 @@ a {
   }
 }
 .cid-sYlHRLX0kL {
-  padding-top: 0rem;
-  padding-bottom: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 8rem;
   background-color: #ffffff;
 }
 .cid-sYlHRLX0kL .card-wrapper {
@@ -1142,7 +1142,7 @@ a {
   margin-bottom: auto !important;
 }
 .cid-sYlHRLX0kL img {
-  transform: scale(1) translateX(0);
+  transform: scale(1.1) translateX(0);
   z-index: 0;
 }
 @media (max-width: 1024px) {
@@ -1151,6 +1151,9 @@ a {
     bottom: -2rem;
     margin-top: -2rem;
   }
+}
+.cid-sYlHRLX0kL .display-1 {
+  font-size: 3.2rem;
 }
 .cid-sYlPHciEPo {
   padding-top: 8rem;
