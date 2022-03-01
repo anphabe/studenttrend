@@ -530,6 +530,9 @@
             ".text-wrapper": {
               "@media (max-width: 768px)": {
                 "padding": "1rem 0 0 1rem"
+              },
+              "@media (min-width: 768px)": {
+                "margin-top": "-6rem"
               }
             },
             ".mbr-text, .mbr-section-btn": {
