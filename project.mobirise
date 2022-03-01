@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Student Trend",
-    "currentPage": "index.html",
+    "currentPage": "thongtinquatang.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -83,7 +83,7 @@
         "main": true,
         "title": "Khảo sát xu hướng sinh viên 2022",
         "meta_descr": "Ra trường, chọn việc, liệu có dễ dàng?",
-        "header_custom": "<meta property=\"og:site_name\" content=\"https://studenttrend.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta name=\"author\" content=\"Anphabe\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://studenttrend.anphabe.com/\"/>\n<meta name=\"title\" property=\"og:title\" content=\"Câu chuyện điển hình\">\n<meta name=\"description\" property=\"og:description\" content=\"Khảo sát xu hướng sinh viên 2022\">\n<meta name=\"twitter:image:src\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n  <meta property=\"og:image\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n",
+        "header_custom": "<meta property=\"og:site_name\" content=\"https://studenttrend.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta name=\"author\" content=\"Anphabe\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://studenttrend.anphabe.com/\"/>\n<meta name=\"title\" property=\"og:title\" content=\"Khảo sát xu hương sinh viên 2022.\">\n<meta name=\"description\" property=\"og:description\" content=\"Ra trường, chọn việc, liệu có dễ dàng?\">\n<meta name=\"twitter:image:src\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n  <meta property=\"og:image\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1022,7 +1022,7 @@
       "settings": {
         "title": "Thông tin quà tặng",
         "meta_descr": "Khảo sát xu hướng sinh viên 2022",
-        "header_custom": "<meta property=\"og:site_name\" content=\"https://studenttrend.anphabe.com/\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta name=\"author\" content=\"Anphabe\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://studenttrend.anphabe.com/\"/>\n<meta name=\"title\" property=\"og:title\" content=\"Câu chuyện điển hình\">\n<meta name=\"description\" property=\"og:description\" content=\"Khảo sát xu hướng sinh viên 2022\">\n<meta name=\"twitter:image:src\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n  <meta property=\"og:image\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n",
+        "header_custom": "<meta property=\"og:site_name\" content=\"https://studenttrend.anphabe.com\"/>\n<meta property=\"og:rich_attachment\" content=\"true\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta name=\"author\" content=\"Anphabe\">\n<meta property=\"og:url\" itemprop=\"url\" content=\"https://studenttrend.anphabe.com/\"/>\n<meta name=\"title\" property=\"og:title\" content=\"Khảo sát xu hương sinh viên 2022.\">\n<meta name=\"description\" property=\"og:description\" content=\"Ra trường, chọn việc, liệu có dễ dàng?\">\n<meta name=\"twitter:image:src\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n  <meta property=\"og:image\" content=\"https://studenttrend.anphabe.com/assets/images/share.jpg\">\n",
         "footer_custom": "",
         "html_before": "",
         "order": 1
